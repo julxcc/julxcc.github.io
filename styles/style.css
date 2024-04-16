@@ -1,0 +1,40 @@
+td {
+  vertical-align: top
+}
+
+p {
+  text-align: justify;
+  text-indent: 50px;
+  font-size: 30px;
+  color: rgb(0, 0, 0)
+}
+
+h2 {
+  font-size: 15px;
+  font-family: courier;
+  color: rgb(0, 0, 0);
+  text-align: right
+}
+
+h3 {
+  font-size: 30px;
+  font-family: courier;
+  color: rgb(0, 0, 0);
+  text-align: center
+}
+
+h4 {
+  font-size: 30px;
+  font-family: courier;
+  color: rgb(0, 0, 0);
+  text-align: left
+}
+
+img {
+  border: black;
+  border-style: double
+}
+
+body {
+  background-color: blanchedalmond;
+}
